@@ -1,1 +1,1 @@
-# DataSruc-Algo-infix-to-prefix-c-code
+# DataSruc-Algo-infix-to-prefix-c++-code
